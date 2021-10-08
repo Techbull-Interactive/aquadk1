@@ -25,7 +25,8 @@
 						<p> Logo </p>
                         <p>About Aqua DK</p>
                         <br>
-						<p></p>
+						<p>AQUA DK is the top Online Aquarium Store in kerala where you can buy Fish, Aquarium Plants and 
+						Aquarium Products at the most competitive prices. We have the largest collection of Aquarium Plants Online in Kerala and Aquarium Products Online in India from leading brands.</p>
 						<!--<p>Services </p>
                         <ul class="list-unstyled address-list margin-bottom-20">
                             <li><i class="fa fa-angle-right"></i>California, US, Lorem Lis Street, Orange, 25</li>
@@ -49,12 +50,13 @@
                             <div class="col-sm-12 col-xs-6">
                                 <h2 class="thumb-headline">Useful Links</h2>
                                 <ul class="list-unstyled simple-list margin-bottom-20">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">Products</a></li>
-                                    <li><a href="#">Contact Us </a></li>
+                                    <li><a href="index.php">Home</a></li>
+									<li><a href="about.php">About US</a></li>
+                                    <li><a href="category.php">Products</a></li>
+                                    <li><a href="contact_us.php">Contact Us </a></li>
                                     
-									 <li><a href="#">Enquiry</a></li>
-                                    <li>...</li>
+									 <li><a href="enquiry.php">Enquiry</a></li>
+                                    
                                 </ul>
                             </div>    
 
@@ -76,10 +78,14 @@
                             <div class="col-sm-12 col-xs-6">
                                 <h2 class="thumb-headline">Our Contact Info</h2>
                                 <ul class="list-unstyled simple-list margin-bottom-20">
-                                    <li><a href="#">--</a></li>
-                                    <li><a href="#">--</a></li>
-                                    <li><a href="#">-- </a></li>
-                                    <li>...</li>
+                                    <li><a href="#"><i class="fa fa-phone"></i> 
+                    &nbsp;&nbsp;
+                    <b>Mobile No</b> : 9633442496 <br></a></li>
+                                    <li><a href="#"> <i class="fa fa-envelope"></i>
+                    &nbsp;&nbsp;
+                    <b>Email id</b>  : aquadk01@gmail.com </a></li>
+                                    
+                                    
                                 </ul>
                             </div>    
                             

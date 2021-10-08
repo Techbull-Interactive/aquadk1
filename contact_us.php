@@ -28,20 +28,20 @@
                 <p style="text-align: justify;">
                     <i class="fa fa-phone"></i> 
                     &nbsp;&nbsp;
-                    <b>Mobile No</b> : <br>
+                    <b>Mobile No</b> : 9633442496 <br>
       
                 </p>
 
                 <p>
                     <i class="fa fa-envelope"></i>
                     &nbsp;&nbsp;
-                    <b>Email id</b>  : 
+                    <b>Email id</b>  : aquadk01@gmail.com
                 </p>
 
                 <p>
                     <i class="fa fa-location-arrow"></i>
                     &nbsp;&nbsp;
-                    <b>Address</b>  : 
+                    <b>Address</b>  : Sastha Villa, Madannada, Vembayam, 695615 
       
                 </p>
 
